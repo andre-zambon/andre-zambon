@@ -1,6 +1,6 @@
 ## Enaldo André Zambon 
 (ou apenas André)
-### Olá, Devs!!
+### Olá!
 
 :raising_hand: Tenho 33 anos, moro em Venda Nova do Imigrante, interior do Espírito Santo. Gosto muito de tecnologia, principalmente as inovações que contribuem para o                  desenvolvimento da sociedade e meio-ambiente.
 
